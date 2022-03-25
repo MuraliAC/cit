@@ -1,0 +1,85 @@
+
+.navigation-bar {
+  padding: 2%;
+  background-color: #DACC96;
+}
+
+.brand-txt{
+  font-size: 180%;
+}
+
+.motto {
+  background-image: url("https://images.pexels.com/photos/1184580/pexels-photo-1184580.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+
+.motto-word {
+  text-align: center;
+  padding: 10%;
+  font-size: 400%;
+  color: white;
+  line-height: 2;
+  font-family: 'Sansita Swashed', cursive;
+  margin: 0;
+}
+
+.stories{
+  padding-bottom: 70px;
+}
+
+.full-div{
+  padding: 20px;
+  background-color: #E6D5B8;
+}
+
+.content-style {
+  padding: 4%;
+  line-height: 2.5;
+  text-align: justify;
+
+}
+
+.footer {
+  text-align: center;
+  padding: 2%;
+  margin: 0;
+  background-color: #DACC96;
+  color: black;
+}
+
+.story-row {
+  width: 50%;
+  margin: 100px auto auto auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.first-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.second-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.about-img{
+  padding: 2%;
+}
+
+.corousel-img{
+  width: 40%;
+  padding: 4%;
+}
+
+.carousel-section{
+  background-color: #E6D5B8;
+}
+
+@media (max-width: 630px) {
+  .brand-txt{
+    font-size: 130%;
+  }
+}
